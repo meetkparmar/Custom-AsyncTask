@@ -11,4 +11,4 @@ In this project, after clicking on "Start Async Task" button, will start 10 seco
 ### Screens Recording
 |
 |:----:|
-| <img alt="SS_1" src=""> |
+| <img alt="SS_1" src="https://github.com/meetkparmar/Custom-AsyncTask/blob/main/demo/CustomAsyncTask%20Demo.mp4"> |
